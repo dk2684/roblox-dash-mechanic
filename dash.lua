@@ -1,7 +1,7 @@
 -- Required Services
 local RunService = game:GetService("RunService")
-local UIS = game:GetService("UserInputService")
 local Players = game:GetService("Players")
+local UIS = game:GetService("UserInputService")
 
 -- Player, Character, Humanoid Parts
 local Player = Players.LocalPlayer
